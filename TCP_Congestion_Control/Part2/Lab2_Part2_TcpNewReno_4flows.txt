@@ -1,0 +1,6 @@
+Flow 0 to dest0: Total Bytes Received: 486880 Goodput:205002 bits/s
+Flow 1 to dest1: Total Bytes Received: 670480 Goodput:282307 bits/s
+Flow 2 to dest0: Total Bytes Received: 495720 Goodput:208724 bits/s
+Flow 3 to dest1: Total Bytes Received: 381140 Goodput:160480 bits/s
+The Aggregate Goodput of dest1:442787 bits/s
+The Aggregate Goodput of dest2:413726 bits/s

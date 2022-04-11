@@ -1,0 +1,5 @@
+1. The end-to-end delays for packets 2 through 10  is stable in part2, but is unstable in part3.
+
+2.The communication quality of the wifi channel is unstable and will change according to the location from the AP node. 
+
+In part3, we set the mobility for the STA Nodes in the program, so the transmission rate will change according to the location of the STA node. This unstable transmission rate is the reason for the unstable end-to-end request-response delays.

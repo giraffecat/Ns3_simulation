@@ -1,0 +1,14 @@
+wifi station node position at x = -35, y = 0 Goodput: 3.06933e+08 bits/s
+wifi station node position at x = -30, y = 0 Goodput: 3.06568e+08 bits/s
+wifi station node position at x = -25, y = 0 Goodput: 2.37663e+08 bits/s
+wifi station node position at x = -20, y = 0 Goodput: 1.8153e+08 bits/s
+wifi station node position at x = -15, y = 0 Goodput: 1.09958e+08 bits/s
+wifi station node position at x = -10, y = 0 Goodput: 5.38411e+07 bits/s
+wifi station node position at x = -5, y = 0 Goodput: 5.66067e+07 bits/s
+wifi station node position at x = 0, y = 0 Goodput: 5.2233e+07 bits/s
+wifi station node position at x = 5, y = 0 Goodput: 5.35339e+07 bits/s
+wifi station node position at x = 10, y = 0 Goodput: 4.69606e+07 bits/s
+wifi station node position at x = 15, y = 0 Goodput: 0 bits/s
+wifi station node position at x = 20, y = 0 Goodput: 0 bits/s
+wifi station node position at x = 25, y = 0 Goodput: 0 bits/s
+wifi station node position at x = 30, y = 0 Goodput: 0 bits/s
